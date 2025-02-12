@@ -7,12 +7,12 @@ Explain what each file/folder contains.
 🔧 Installation & Setup
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/fitness-lifestyle-prediction.git
+git clone https://github.com/thalanki-shanmukha-sai/fitness-lifestyle-prediction.git
 
-2. Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
-3. Open the Jupyter notebook or run it in Google Colab.
+4. Open the Jupyter notebook or run it in Google Colab.
    
 📊 Dataset Details
 Explain the dataset:
